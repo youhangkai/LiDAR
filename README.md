@@ -1,6 +1,5 @@
 # LiDAR
 Tree extraction using ALS data
-
 Use a txt file for input and output.
 When using the code, Please follow:
 1. Coarse extraction.
